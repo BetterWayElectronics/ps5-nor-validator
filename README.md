@@ -1,5 +1,5 @@
 # BwE PS5 NOR Validator
 
-PS5 NOR Validator in alpha stage, designed to validate and interpret the semi-encrypted firmware of a PS5. At this stage the data used to validate the entropy and statistic of the firmware is rough. Given the current state of the application, it should not be used to validate. Wait for future updates!
+BwE PS5 NOR Validator (Pre-Alpha). Designed to validate the entire raw and semi-encrypted firmware of a PlayStation 5. Created using Perl. Not recommended for use at this stage. Please wait for future developments and additional flash dumps. The next update will actually begin to extract and validate the individual files within the flash.
 
 ![GitHub Logo](https://i.imgur.com/asRPBhQ.png)
